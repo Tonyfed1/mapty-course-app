@@ -2,7 +2,7 @@
 
 mapty app fetch the users positions and display them on the map, it also stores and keep track of all the the user's workouts
 
-An application built on the course of learning;
+An application I built on the course of learning;
 
 - web project planning and architecture
 - use of geolocation API
