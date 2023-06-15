@@ -8,5 +8,6 @@ An application built on the course of learning;
 - use of geolocation API
 - use of third party libary
 - working with local storage
+- object-oriented programming (OOP) and ES6 classes
 
 Built from Jonas Schmedtmann JavaScript Coruse on Udemy
